@@ -20,6 +20,10 @@ Use imwrite(filename, image) to write the image.
 End the program and close the output image windows.
 ## Program:
 ### Developed By:
+
+NAME: U.SRINIVAS
+REG NO: 212221230108
+
 ### Register Number: 
 i) #To Read,display the image
 ```
