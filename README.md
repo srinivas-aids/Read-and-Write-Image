@@ -22,6 +22,7 @@ End the program and close the output image windows.
 ### Developed By:
 
 NAME: U.SRINIVAS
+
 REG NO: 212221230108
 
 ### Register Number: 
